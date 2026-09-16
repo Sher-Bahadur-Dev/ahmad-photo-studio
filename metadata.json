@@ -1,0 +1,6 @@
+{
+  "name": "Ahmad Photo Studio",
+  "description": "Ahmad Photo Studio in Gulberg, Lahore provides professional wedding, event, portrait, passport and photo/video shoot services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
